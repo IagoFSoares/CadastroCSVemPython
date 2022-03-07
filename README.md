@@ -2,6 +2,8 @@
 
 Programa de conversão de arquivo em CSV para Objeto em Python conforme solicitado pelo desafio abaixo pelo programa de estágio da Arkmeds
 
+Bônus: Com o uso de pandas é possivel fazer a conversão em tabela com display mais bem definido
+
 Problema
 
 Introdução
